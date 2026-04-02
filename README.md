@@ -27,6 +27,7 @@ This repository contains two separate mini-projects:
 - MongoDB
 - JSON
 - Urlib
+- Pipenv
 
 
 ## Features
