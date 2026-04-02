@@ -26,6 +26,7 @@ This repository contains two separate mini-projects:
 - Requests / BeautifulSoup
 - MongoDB
 - JSON
+- Urlib
 
 
 ## Features
